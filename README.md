@@ -14,6 +14,9 @@ This project tracks the driving route in real-time from the Washington Monument 
 * Click on the top button, Driving from the Washington Monument to Dupont Circle- 12 minute journey
 * Watch Animation
 ---
+## Future Improvements:
+Adding alternate routes in real-time could enhance the animated map and perhaps allow the person looking at the map to discover new location along the way instead of taking the shortest, most direct path.
+
 ## Contact
 Daphne Benzaquen at dbenzaquen89
 
