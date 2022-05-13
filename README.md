@@ -1,6 +1,6 @@
 # RealTimeTracker
 ## Description: 
-This project tracks the driving route in real-time from the Washington Monument to Dupont Circle in DC. The total drive is 10 minutes. This animated map includes a moving blue marker outlining the stops.
+This project tracks the driving route in real-time from the Washington Monument to Dupont Circle in DC. The total drive is 12 minutes. This animated map includes a moving blue marker outlining the stops.
 
 ## Repository Contents
 * Index.html
